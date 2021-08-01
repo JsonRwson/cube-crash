@@ -1,6 +1,6 @@
 # Cube-Crash---Unity-Mobile-Game
 A simple unity mobile game, turn based endless puzzle game with powerups,
 other gamemodes, enemy types and more interesting boards / levels will be added
-This is a veyr early state of the game
-![Screenshot_6](https://user-images.githubusercontent.com/27012591/127756056-e9436aa0-3346-4574-a602-82dee584a233.jpg)![Screenshot_8](https://user-images.githubusercontent.com/27012591/127756062-fa0d35dd-e95d-4ed9-9615-f0046f6f9246.jpg)![Screenshot_7](https://user-images.githubusercontent.com/27012591/127756097-b1646966-cfdd-42ab-ae13-265cc8fa1949.jpg)
+This is a very early state of the game
+![Screenshot_6](https://user-images.githubusercontent.com/27012591/127756135-9df0e67e-74cb-47ae-b321-8d43a9edc7f1.jpg)![Screenshot_7](https://user-images.githubusercontent.com/27012591/127756139-51fc8383-e009-411a-b5d9-30202b8e9f52.jpg)![Screenshot_8](https://user-images.githubusercontent.com/27012591/127756140-0533f2ce-7347-404f-a088-2f50e42a018e.jpg)
 
